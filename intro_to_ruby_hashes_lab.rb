@@ -26,7 +26,12 @@ def monopoly_with_third_tier
   hash_without_the_keyword = {
       :railroads => {
       :pieces => 4,
-      :rent_in_dollars => 100
+      :rent_in_dollars => {
+        :
+        :
+        :
+        :
+      }
       }
   }
 
