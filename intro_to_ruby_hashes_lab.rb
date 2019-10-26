@@ -20,7 +20,7 @@ def monopoly_with_third_tier
   # complexity.
   hash_without_the_keyword = {
       :railroads => {
-        :pieces => ""
+      :pieces => {}
       }
   }
 end
